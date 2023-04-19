@@ -19,7 +19,7 @@ import { TablaModule } from '../tabla/tabla.module';
     MatIconModule,
     MatButtonModule,
     FormularioModule,
-    TablaModule
+    TablaModule,
   ],
   exports: [
     DashboardComponent
